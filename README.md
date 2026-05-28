@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ajo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Ajo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ajo/) |
+| **Get License** | [Official Music Licensing for Ajo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ajo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> আজো স্মৃতির আগুনে পুড়ছে আমার রাত
+> আঁধার পথে আমি খুঁজি শুধু তোমার হাত
+> বিষণ্ণ এই মেঘের বুকে বৃষ্টি জমে রয়
+> তোমার প্রেমে হারাই আমি, হারায় সব সংশয়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
