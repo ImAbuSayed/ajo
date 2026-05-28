@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ajo
+
+This log tracks the cryptographic history and versioning for the song **Ajo** (ajo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T19:42:36.894280 | `v1` | `e5dbbd7ffef6832279d4c2654447ad9be872b3bcf22140b76960cb3ac042449c` | `305d6941c7c878bf441b2c3971ea91058d4b20039e4ee7925a4fa421b331064f` | `2026-05-28_ajo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
